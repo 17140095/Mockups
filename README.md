@@ -2,8 +2,8 @@
 These are the sample UI/UX Designs using Adobe XD tool.
 
 ## GIFT Cafe Mockup
- ![GIFTCafeMockup](/GIFT-Cafe-Mockup-images/1.jpg | width=100)
- ![GIFTCafeMockup](/GIFT-Cafe-Mockup-images/2.jpg | width=100)
+ ![GIFTCafeMockup](/GIFT-Cafe-Mockup-images/1.jpg){:height="50%" width="50%"}
+ ![GIFTCafeMockup](/GIFT-Cafe-Mockup-images/2.jpg){:height="50%" width="50%"}
  ![GIFTCafeMockup](/GIFT-Cafe-Mockup-images/3.jpg)
  ![GIFTCafeMockup](/GIFT-Cafe-Mockup-images/4.jpg)
  ![GIFTCafeMockup](/GIFT-Cafe-Mockup-images/5.jpg)
