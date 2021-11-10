@@ -19,14 +19,14 @@ These are the sample UI/UX Designs using Adobe XD tool.
 
 
 ## Library Visistors Counter System Mockup
-<img src="/LVCS-Mockup-images/1.jpg" width="250" height="300">
-<img src="/LVCS-Mockup-images/2.jpg" width="250" height="300">
-<img src="/LVCS-Mockup-images/3.jpg" width="250" height="300">
-<img src="/LVCS-Mockup-images/4.jpg" width="250" height="300">
-<img src="/LVCS-Mockup-images/5.jpg" width="250" height="300">
-<img src="/LVCS-Mockup-images/6.jpg" width="250" height="300">
-<img src="/LVCS-Mockup-images/7.jpg" width="250" height="300">
-<img src="/LVCS-Mockup-images/8.jpg" width="250" height="300">
-<img src="/LVCS-Mockup-images/9.jpg" width="250" height="300">
+<img src="/LVCS-Mockup-images/1.jpg" width="350" height="300">
+<img src="/LVCS-Mockup-images/2.jpg" width="350" height="300">
+<img src="/LVCS-Mockup-images/3.jpg" width="350" height="300">
+<img src="/LVCS-Mockup-images/4.jpg" width="350" height="300">
+<img src="/LVCS-Mockup-images/5.jpg" width="350" height="300">
+<img src="/LVCS-Mockup-images/6.jpg" width="350" height="300">
+<img src="/LVCS-Mockup-images/7.jpg" width="350" height="300">
+<img src="/LVCS-Mockup-images/8.jpg" width="350" height="300">
+<img src="/LVCS-Mockup-images/9.jpg" width="350" height="300">
 
 
